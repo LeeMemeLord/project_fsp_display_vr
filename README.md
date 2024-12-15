@@ -1,3 +1,5 @@
+**📂 Le code source se trouve dans le répertoire `Assets` du projet.**
+
 # 🎮 **Guide d'installation et de test du jeu**
 
 ## **Prérequis**
