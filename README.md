@@ -19,7 +19,7 @@ Pour tester ce projet, vous devez avoir **Unity** installé sur votre ordinateur
 2. **Installer la version Unity utilisée dans ce projet :**
    - Ouvrez Unity Hub.
    - Cliquez sur **"Installs"** pour ajouter une nouvelle version.
-   - Sélectionnez la version **`<INSÉRER VERSION UNITY>`** utilisée pour ce projet (remplacez par la version exacte).
+   - Sélectionnez la version **`(2022.3.18f1)`** utilisée pour ce projet (remplacez par la version exacte).
 
 3. **Installer les modules nécessaires :**
    - Assurez-vous d'ajouter les modules **"Windows Build Support"** ou **"Mac Build Support"**, selon votre plateforme.
