@@ -1,4 +1,4 @@
-**📂 Le code source se trouve dans le répertoire `Assets` du projet.**
+**📂 Le code source se trouve dans le répertoire `Assets/Scripts` du projet.**
 
 # 🎮 **Guide d'installation et de test du jeu**
 
