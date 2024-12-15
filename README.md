@@ -95,10 +95,3 @@ Ce projet est sous licence **MIT** (ou autre, selon votre choix).
 ## 🎉 **Merci d'avoir testé le jeu !**
 N'hésitez pas à laisser vos retours dans les issues du dépôt. 😊
 
----
-
-![Aperçu du jeu](chemin/vers/image.png)
-
----
-
-> **Note :** Remplacez `<INSÉRER VERSION UNITY>`, `<URL_DU_REPO>` et `chemin/vers/image.png` par les valeurs appropriées pour votre projet.
